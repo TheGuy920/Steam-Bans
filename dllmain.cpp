@@ -73,8 +73,8 @@ void UpdateBanList()
         file << "# Put your banned steamids here\n";
         file << "# Each steamid should be on a new line\n";
         file << "# For example:\n";
-        file << "76561199531536640 # TheGuy920's crash bot\n";
-        file << "76561199665208613 # TheGuy920's crash bot #2\n";
+        file << "76561199531536640 # someone's crash bot\n";
+        file << "76561199665208613 # someone's crash bot #2\n";
         file.close();
     }
 
